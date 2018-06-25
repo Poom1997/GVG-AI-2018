@@ -15,8 +15,6 @@
   Bhurinuth Wongsrisakul (1237005 - 58090030) - Project Manager  <br>
   Parin Kobboon (1236420 - 58090023) -  Algorithm Integrator 1<br>
   Pakpoom Kunalittipol (1236446 - 58090027) - Algorithm Integrator 2<br>
-  Thanapar Leelasathapornkun (1236491 - 58090019) - Main Researcher<br>
-
 
 # INITIAL DESCRIPTION
 
