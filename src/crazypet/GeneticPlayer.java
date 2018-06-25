@@ -154,7 +154,11 @@ public class GeneticPlayer extends AbstractPlayer {
         this.timer = elapsedTimer;
 
         try {
-            return microbial(stateObs, 100);
+            Types.ACTIONS act = microbial(stateObs, 100);
+            if (act != null){
+                return act;
+            }
+            return Types.ACTIONS.ACTION_NIL;
         } catch (Exception err) {
             System.out.println(err);
             return Types.ACTIONS.ACTION_NIL;
