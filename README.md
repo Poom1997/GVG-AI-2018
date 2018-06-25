@@ -22,7 +22,7 @@
 
 # ADDITIONAL DESCRIPTION
 
-  Cloned and edited from https://github.com/EssexUniversityMCTS/gvgai <br>
+  Cloned and edited from https://github.com/GAIGResearch/GVGAI <br>
   Visit http://www.gvgai.net/ for more information. <br>
 
 # 
