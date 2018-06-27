@@ -12,9 +12,9 @@
 
 # AUTHORS AND PROGRAMMER
 
-  Bhurinuth Wongsrisakul (1237005 - 58090030) - Project Manager  <br>
-  Parin Kobboon (1236420 - 58090023) -  Algorithm Integrator 1<br>
-  Pakpoom Kunalittipol (1236446 - 58090027) - Algorithm Integrator 2<br>
+  Bhurinuth Wongsrisakul (1237005 - 58090030) - Project Manager and System Analyst <br>
+  Parin Kobboon (1236420 - 58090023) -  Algorithm Design and Analysis<br>
+  Pakpoom Kunalittipol (1236446 - 58090027) - Algorithm Design and Analysis<br>
 
 # DESCRIPTION
 
