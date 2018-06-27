@@ -27,6 +27,6 @@
   Visit http://www.gvgai.net/ for more information. <br>
 
 # 
-**PROGRAM VERSION: 0.0.1 (Alpha)<br>**
+**PROGRAM VERSION: 2.3.5<br>**
 
 THIS DOCUMENT IS EDITED AS-OF 26 JUNE 2018<br>
