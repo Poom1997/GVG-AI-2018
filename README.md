@@ -6,7 +6,7 @@
 
   GVGAI Competition 2018 Track 1 (Single Player Planning) WCCI-2018<br>
 
-  Bachelor or Informatik - Fach Semester 4<br>
+  Bachelor or Informatik - Fach Semester 4 (SoSE 2018)<br>
   Frankfurt University of Applied Sciences<br>
   Exchange Students from King Mongkut's Institute of Technology Ladkrabang (KMITL)<br>
 
@@ -16,9 +16,10 @@
   Parin Kobboon (1236420 - 58090023) -  Algorithm Integrator 1<br>
   Pakpoom Kunalittipol (1236446 - 58090027) - Algorithm Integrator 2<br>
 
-# INITIAL DESCRIPTION
+# DESCRIPTION
 
-  == No description at the moment ==
+  AI Agent with 3 Algorithms: A*, Monte Carlo, Genetic Algorithm to<br>
+  play the games. Created for GVGAI Competition 2018 (Single Player Planning) WCCI-2018<br>
 
 # ADDITIONAL DESCRIPTION
 
